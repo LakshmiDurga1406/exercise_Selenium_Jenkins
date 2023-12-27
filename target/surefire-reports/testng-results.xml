@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-27T14:55:08 IST" name="Suite" finished-at="2023-12-27T14:55:47 IST" duration-ms="38960">
+    <groups>
+    </groups>
+    <test started-at="2023-12-27T14:55:08 IST" name="Test" finished-at="2023-12-27T14:55:47 IST" duration-ms="38960">
+      <class name="orangeHrmTest.Login_Logout">
+        <test-method is-config="true" signature="setup()[pri:0, instance:orangeHrmTest.Login_Logout@1757cd72]" started-at="2023-12-27T14:55:08 IST" name="setup" finished-at="2023-12-27T14:55:26 IST" duration-ms="18298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:orangeHrmTest.Login_Logout@1757cd72]" started-at="2023-12-27T14:55:26 IST" name="verifyLogin" finished-at="2023-12-27T14:55:41 IST" duration-ms="15051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:orangeHrmTest.Login_Logout@1757cd72]" started-at="2023-12-27T14:55:41 IST" name="teardown" finished-at="2023-12-27T14:55:47 IST" duration-ms="5569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- orangeHrmTest.Login_Logout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
